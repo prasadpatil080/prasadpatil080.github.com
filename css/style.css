@@ -1,14 +1,14 @@
 /*------------- Login Page Styles ------------*/
 /*#region  Genral  */
-html
-{
-    background-color: #56baed;
-}
 body
 {
     font-family: Calibri;
     height: 100vh;
     margin: 0px auto;
+    background-image: url('../images/loginbg.jpg');
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
 }
 a
 {
